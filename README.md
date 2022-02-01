@@ -1,4 +1,4 @@
-### Heyy Lady and Gentlemen 👋
+### Hi Everyone 👋
 
 
 ## 📌 GitHub Stats And Top Languages
