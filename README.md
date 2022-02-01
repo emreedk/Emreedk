@@ -9,13 +9,42 @@
 </p>
 
 
-## 📚 Learning & Interested
+<h2> Languages & Tools </h2>
 
-<code><img height="75" src="https://image.flaticon.com/icons/svg/882/882710.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/917/917316.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/887/887813.svg"></code>
-<code><img height="75" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
+<table>
+<thead>
+<tr>
+<th align="center">C#</th>
+<th align="center">SQL</th>
+<th align="center">HTML</th>
+<th align="center">CSS</th>
+<th align="center">JavaScript</th>
+<th align="center">React</th>
+<th align="center">Git</th>
+<th align="center">VS Code</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+<td><img style="width: 100px; max-width: 100%;" src="https://miro.medium.com/fit/c/64/64/1*JtC1CS6-OT218_QzRlLXFw.gif"></a></td>
+
+<td><img style="width: 100px; max-width: 100%;" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif"></a></td>
+
+<td><img style="width: 100px; max-width: 100%;" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"></a></td>
+  
+<td><img style="width: 100px; max-width: 100%;" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"></a></td>
+  
+<td><img style="width: 100px; max-width: 100%;" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></a></td>
+  
+<td><img style="width: 100px; max-width: 100%;" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"></a></td>
+  
+<td><img style="width: 100px; max-width: 100%;" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"></a></td>
+  
+<td><img style="width: 100px; max-width: 100%;" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"></a></td>
+</tr>
+</tbody>
+</table>
+<br></br>
 
 
 ## 📚 My First Project
