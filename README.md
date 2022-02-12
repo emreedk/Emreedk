@@ -19,7 +19,7 @@
 <th align="center">HTML</th>
 <th align="center">CSS</th>
 <th align="center">JavaScript</th>
-<th align="center">React</th>
+<th align="center">Angular</th>
 <th align="center">Git</th>
 <th align="center">VS Code</th>
   </tr>
@@ -36,7 +36,7 @@
   
 <td><img style="width: 100px; max-width: 100%;" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"></a></td>
   
-<td><img style="width: 100px; max-width: 100%;" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif"></a></td>
+<td><img style="width: 100px; max-width: 100%;" src="https://raw.githubusercontent.com/vugar005/ngx-awesome-uploader/master/angular-image.gif?raw=true"></a></td>
   
 <td><img style="width: 100px; max-width: 100%;" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"></a></td>
   
