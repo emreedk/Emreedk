@@ -58,6 +58,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreedk&" alt="emreedk" /></p>
 
-## Snake eating my contribution graph
+## My Contributions
 
 ![snake gif](https://github.com/Emreedk/Emreedk/blob/output/github-contribution-grid-snake.gif)
