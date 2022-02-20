@@ -1,5 +1,5 @@
 ### Hi Everyone 👋
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Emreedk&label=Profile%20views&color=0e75b6&style=flat" alt="Emreedk" /> </p>
 
 ## 📌 GitHub Stats And Top Languages
 
