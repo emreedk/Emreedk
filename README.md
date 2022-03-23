@@ -49,6 +49,7 @@
 
 ## 📚 My First Project
 [@muzlusozluk](https://www.muzlusozluk.com)
+<img src="https://i.hizliresim.com/hw87xq8.jpg">
 
 ## 📫 How to Reach Me
 
