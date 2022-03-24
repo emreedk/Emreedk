@@ -50,7 +50,7 @@
 ## 📚 My First Project
 [@muzlusozluk](https://www.muzlusozluk.com)
 
-#### You can use the information below to browse the admin panel.
+#### You can use the information below to check the admin panel.
 Username : emreedk    pwd : 1
 
 <img src="https://i.hizliresim.com/hw87xq8.jpg">
