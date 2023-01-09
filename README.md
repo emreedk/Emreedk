@@ -51,13 +51,6 @@
 <br></br>
 
 
-## 📚 My First Project
-[@muzlusozluk](https://www.muzlusozluk.com)
-
-#### You can use the information below to check the admin panel.
-Username : emreedk  |  pwd : 1
-
-<img src="https://i.hizliresim.com/hw87xq8.jpg">
 
 ## 📫 How to Reach Me
 
@@ -67,7 +60,4 @@ Username : emreedk  |  pwd : 1
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreedk&" alt="emreedk" /></p>
 
-## My Contributions
 
-![snake gif](https://github.com/Emreedk/Emreedk/blob/output/github-contribution-grid-snake.gif)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Emreedk&label=Profile%20views&color=0e75b6&style=flat" alt="Emreedk" /> </p>
