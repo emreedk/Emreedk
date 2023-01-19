@@ -3,10 +3,11 @@
 
 ## 📌 GitHub Stats And Top Languages
 
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Emreedk&show_icons=true&count_private=true&hide=contribs,issues" alt="Emreedk's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emreedk&layout=compact&hide=html,css" alt="My Top Langs" />
-</p>
+ <div>
+  <a href="https://github.com/emreedk">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreedk&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emreedk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
 
 
 <h2> Languages & Tools </h2>
@@ -60,4 +61,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreedk&" alt="emreedk" /></p>
 
-
+![Snake animation](https://github.com/emreedk/emreedk/blob/output/github-contribution-grid-snake.svg)
