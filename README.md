@@ -52,7 +52,7 @@
 ## 📫 How to Reach Me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/Emreedk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emredemirkazik/)
+[![Linkedin Badge](https://img.shields.io/badge/Emreedk-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emredemirtug/)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emreedk&" alt="emreedk" /></p>
